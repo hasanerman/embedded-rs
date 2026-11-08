@@ -1,2 +1,1 @@
-# embedded-rs
-embedded-rust
+rust on bare metal.
